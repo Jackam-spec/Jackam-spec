@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jackam-spec
 - 👀 I’m interested in Machine learning and Software Development
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on machine learning research
+- 🌱 I'm open to learning new technologies.
+- 💞️ I’m looking to collaborate software development projects.
 - 📫 You can reach me by sending an inbox to my Github account or via jacmire@gmail.com
 
 <!---
